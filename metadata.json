@@ -1,0 +1,6 @@
+{
+  "name": "Thiết bị chăn nuôi Hoàng Sài Gòn",
+  "description": "Website bán thiết bị chăn nuôi chuyên nghiệp, uy tín hàng đầu tại Việt Nam - Hoàng Sài Gòn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
